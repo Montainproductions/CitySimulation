@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CitySimulation",
+			"Path": "..\\Source\\CitySimulation.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CitySimulationEditor",
+			"Path": "..\\Source\\CitySimulationEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

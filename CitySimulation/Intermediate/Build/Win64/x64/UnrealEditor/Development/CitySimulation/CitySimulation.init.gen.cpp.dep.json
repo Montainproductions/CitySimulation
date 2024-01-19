@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\monta\\onedrive\\documents\\github\\citysimulation\\citysimulation\\intermediate\\build\\win64\\unrealeditor\\inc\\citysimulation\\uht\\citysimulation.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\monta\\onedrive\\documents\\github\\citysimulation\\citysimulation\\intermediate\\build\\win64\\x64\\citysimulationeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\monta\\onedrive\\documents\\github\\citysimulation\\citysimulation\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\citysimulation\\definitions.citysimulation.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
