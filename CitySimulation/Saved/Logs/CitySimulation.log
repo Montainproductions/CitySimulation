@@ -1141,3 +1141,524 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.19-15.08.04:881][ 80]LogSlate: Window 'Content Browser' being destroyed
 [2024.01.19-15.08.30:777][134]LogSlate: Window 'Revision Control Login' being destroyed
 [2024.01.19-15.09.44:782][378]LogDerivedDataCache: C:/Users/monta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.246 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 636 files in 1080 folders with total size 30 MiB.
+[2024.01.19-15.15.05:611][ 32]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.01.19-15.15.30:985][ 99]LogSlate: Window 'New Level' being destroyed
+[2024.01.19-15.15.31:143][ 99]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.19-15.15.31:144][ 99]LightingResults: New page: Lighting Build
+[2024.01.19-15.15.31:144][ 99]LoadErrors: New page: Loading map: OpenWorld.umap
+[2024.01.19-15.15.31:225][ 99]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-15.15.31:227][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-15.15.31:238][ 99]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.19-15.15.31:240][ 99]MapCheck: New page: Map Check
+[2024.01.19-15.15.31:241][ 99]LightingResults: New page: Lighting Build
+[2024.01.19-15.15.31:258][ 99]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.19-15.15.31:277][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.01.19-15.15.31:296][ 99]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2024.01.19-15.15.31:296][ 99]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-15.15.31:296][ 99]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-15.15.31:297][ 99]LogAIModule: Creating AISystem for world Untitled_1
+[2024.01.19-15.15.31:298][ 99]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.01.19-15.15.31:298][ 99]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.19-15.15.31:298][ 99]LogWorldPartition: UWorldPartition::Initialize : World = Untitled_1, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.19-15.15.31:786][ 99]LogContentBundle: [Untitled_1(Standalone)] Creating new contrainer.
+[2024.01.19-15.15.31:786][ 99]LogWorldPartition: Display: WorldPartition initialize took 487 ms (total: 1.08 sec)
+[2024.01.19-15.15.32:447][ 99]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.19-15.15.32:455][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.19-15.15.32:456][ 99]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.19-15.15.32:456][ 99]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,733ms to complete.
+[2024.01.19-15.15.34:234][114]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.34:234][114]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.34:234][114]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.34:234][114]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.34:234][114]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.34:234][114]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.34:234][114]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.34:234][114]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.34:234][114]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.34:234][114]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.34:234][114]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.34:234][114]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.40:480][222]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.42:400][266]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.45:762][283]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.45:762][283]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.45:762][283]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.45:762][283]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.45:762][283]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.45:762][283]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.45:762][283]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.45:763][283]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.46:378][284]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.46:379][284]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.46:379][284]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.46:379][284]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.46:379][284]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.46:379][284]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.46:379][284]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.46:379][284]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.46:395][285]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.46:989][288]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:376][290]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:376][290]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:376][290]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:376][290]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:376][290]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:376][290]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:376][290]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:565][291]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:565][291]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:759][292]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:759][292]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:759][292]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:759][292]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:759][292]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:759][292]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:760][292]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:760][292]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:967][293]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:968][293]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:968][293]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:968][293]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:968][293]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:968][293]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:968][293]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.47:968][293]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.48:163][294]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.48:163][294]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.52:622][317]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.15.52:622][317]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2024.01.19-15.19.53:474][496]LogViewport: Scene viewport resized to 1523x547, mode Windowed.
+[2024.01.19-15.19.56:017][765]LogViewport: Scene viewport resized to 1523x845, mode Windowed.
+[2024.01.19-15.20.50:826][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.19-15.20.50:874][949]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-15.20.50:875][949]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.01.19-15.20.50:875][949]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.19-15.20.50:875][949]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.19-15.20.50:918][949]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.19-15.20.50:918][949]LogWorldPartition: Display: WorldPartition initialize took 43 ms (total: 1.12 sec)
+[2024.01.19-15.20.50:924][949]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2024.01.19-15.20.50:924][949]Cmd: MAP LOAD FILE="../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.19-15.20.50:925][949]LightingResults: New page: Lighting Build
+[2024.01.19-15.20.50:925][949]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2024.01.19-15.20.50:943][949]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-15.20.50:943][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-15.20.50:946][949]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.01.19-15.20.50:946][949]MapCheck: New page: Map Check
+[2024.01.19-15.20.50:946][949]LightingResults: New page: Lighting Build
+[2024.01.19-15.20.50:950][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.19-15.20.50:966][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.01.19-15.20.50:970][949]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-15.20.50:970][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-15.20.50:971][949]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.19-15.20.50:977][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.19-15.20.50:980][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.19-15.20.50:987][949]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2024.01.19-15.20.50:987][949]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-15.20.50:987][949]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-15.20.50:987][949]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.19-15.20.50:987][949]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.01.19-15.20.50:988][949]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.19-15.20.50:988][949]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.19-15.20.51:017][949]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.19-15.20.51:017][949]LogWorldPartition: Display: WorldPartition initialize took 29 ms (total: 1.15 sec)
+[2024.01.19-15.20.51:033][949]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.19-15.20.51:038][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.01.19-15.20.51:040][949]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.19-15.20.51:042][949]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,277ms to complete.
+[2024.01.19-15.20.58:230][419]LogSlate: Window 'New Level' being destroyed
+[2024.01.19-15.20.58:238][419]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.19-15.20.58:240][419]LightingResults: New page: Lighting Build
+[2024.01.19-15.20.58:240][419]LoadErrors: New page: Loading map: Template_Default.umap
+[2024.01.19-15.20.58:254][419]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-15.20.58:254][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-15.20.58:255][419]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.19-15.20.58:255][419]MapCheck: New page: Map Check
+[2024.01.19-15.20.58:255][419]LightingResults: New page: Lighting Build
+[2024.01.19-15.20.58:258][419]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.19-15.20.58:260][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.19-15.20.58:272][419]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2024.01.19-15.20.58:272][419]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-15.20.58:272][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-15.20.58:273][419]LogAIModule: Creating AISystem for world Untitled_2
+[2024.01.19-15.20.58:285][419]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.19-15.20.58:291][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.01.19-15.20.58:292][419]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.19-15.20.58:292][419]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,132ms to complete.
+[2024.01.19-15.21.41:865][616]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.01.19-15.21.41:865][616]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2024.01.19-15.21.41:868][616]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_0
+[2024.01.19-15.21.41:875][616]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_0
+[2024.01.19-15.21.42:049][617]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/monta/OneDrive/Documents/GitHub/CitySimulation'
+[2024.01.19-15.21.43:090][714]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/monta/OneDrive/Documents/GitHub/CitySimulation'
+[2024.01.19-15.22.27:018][505]LogSlate: Window 'Save Level As' being destroyed
+[2024.01.19-15.22.27:142][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.19-15.22.27:151][505]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.006606 seconds
+[2024.01.19-15.22.27:163][505]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/LimaCitySetup
+[2024.01.19-15.22.27:163][505]LogSavePackage: Moving '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/LimaCitySetupB1A84FA844E8BEA9AB48BCBE0DCD7C50.tmp' to '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Content/FirstPerson/Maps/LimaCitySetup.umap'
+[2024.01.19-15.22.27:325][505]LogFileHelpers: Saving map 'LimaCitySetup' took 0.297
+[2024.01.19-15.22.27:326][505]Cmd: MAP LOAD FILE="../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Content/FirstPerson/Maps/LimaCitySetup.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.19-15.22.27:326][505]LightingResults: New page: Lighting Build
+[2024.01.19-15.22.27:326][505]LoadErrors: New page: Loading map: LimaCitySetup.umap
+[2024.01.19-15.22.27:337][505]LogWorld: UWorld::CleanupWorld for LimaCitySetup, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-15.22.27:337][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-15.22.27:337][505]MapCheck: New page: Map Check
+[2024.01.19-15.22.27:337][505]LightingResults: New page: Lighting Build
+[2024.01.19-15.22.27:339][505]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.19-15.22.27:340][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.19-15.22.27:343][505]LogAudio: Display: Audio Device (ID: 1) registered with world 'LimaCitySetup'.
+[2024.01.19-15.22.27:343][505]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-15.22.27:343][505]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-15.22.27:343][505]LogAIModule: Creating AISystem for world LimaCitySetup
+[2024.01.19-15.22.27:352][505]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.19-15.22.27:358][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.01.19-15.22.27:360][505]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.19-15.22.27:360][505]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,103ms to complete.
+[2024.01.19-15.22.27:363][505]AssetCheck: New page: Asset Save: LimaCitySetup
+[2024.01.19-15.22.27:363][505]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/LimaCitySetup.LimaCitySetup
+[2024.01.19-15.22.42:547][113]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-15.26.23:865][685]Cmd: TRANSACTION UNDO
+[2024.01.19-15.26.23:865][685]LogEditorTransaction: Undo Set Scale
+[2024.01.19-15.26.42:203][376]Cmd: EDIT COPY
+[2024.01.19-15.26.42:685][425]Cmd: EDIT PASTE
+[2024.01.19-15.26.55:550][656]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-15.26.55:644][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.01.19-15.26.55:652][656]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/LimaCitySetup
+[2024.01.19-15.26.55:652][656]LogSavePackage: Moving '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/LimaCitySetup254D481C4F35FED57B32D8A2D08D58CF.tmp' to '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Content/FirstPerson/Maps/LimaCitySetup.umap'
+[2024.01.19-15.26.55:656][656]LogFileHelpers: Saving map 'LimaCitySetup' took 0.025
+[2024.01.19-15.26.55:667][656]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms
+[2024.01.19-15.26.55:670][656]AssetCheck: New page: Asset Save: LimaCitySetup
+[2024.01.19-15.26.55:670][656]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/LimaCitySetup.LimaCitySetup
+[2024.01.19-15.26.56:699][758]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.19-15.26.56:708][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.19-15.26.56:709][758]PIE: New page: PIE session: LimaCitySetup (19 ene. 2024 05:26:56)
+[2024.01.19-15.26.56:710][758]LogPlayLevel: Display: Creating online subsystem for client :Context_3
+[2024.01.19-15.26.56:713][758]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2024.01.19-15.26.56:730][759]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_LimaCitySetup
+[2024.01.19-15.26.56:734][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002968s)
+[2024.01.19-15.26.56:734][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/LimaCitySetup.LimaCitySetup to /Game/FirstPerson/Maps/UEDPIE_0_LimaCitySetup.LimaCitySetup (0.003035s)
+[2024.01.19-15.26.56:737][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.01.19-15.26.56:741][759]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-15.26.56:741][759]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-15.26.56:742][759]LogAIModule: Creating AISystem for world LimaCitySetup
+[2024.01.19-15.26.56:742][759]LogPlayLevel: PIE: World Init took: (0.002218s)
+[2024.01.19-15.26.56:743][759]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.01.19-15.26.56:743][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.19-15.26.56:743][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.19-15.26.56:743][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.19-15.26.56:743][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.19-15.26.56:743][759]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.19-15.26.56:743][759]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.19-15.26.56:743][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.19-15.26.56:743][759]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.19-15.26.56:743][759]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.19-15.26.56:743][759]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.19-15.26.56:743][759]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.19-15.26.56:745][759]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.19-15.26.56:833][759]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.19-15.26.56:834][759]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.19-15.26.56:834][759]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.19-15.26.56:834][759]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.19-15.26.56:835][759]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.01.19-15.26.56:835][759]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.01.19-15.26.56:836][759]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.01.19-15.26.56:836][759]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.01.19-15.26.56:836][759]LogInit: FAudioDevice initialized with ID 2.
+[2024.01.19-15.26.56:836][759]LogAudio: Display: Audio Device (ID: 2) registered with world 'LimaCitySetup'.
+[2024.01.19-15.26.56:836][759]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.19-15.26.56:844][759]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.19-15.26.56:845][759]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_LimaCitySetup.LimaCitySetup up for play (max tick rate 0) at 2024.01.19-10.26.56
+[2024.01.19-15.26.56:846][759]LogWorld: Bringing up level for play took: 0.001619
+[2024.01.19-15.26.56:888][759]LogTemp: Warning: BeginPlay
+[2024.01.19-15.26.56:888][759]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.01.19-15.26.56:889][759]PIE: Server logged in
+[2024.01.19-15.26.56:889][759]PIE: Play in editor total start time 0,184 seconds.
+[2024.01.19-15.27.06:585][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-15.27.06:585][726]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_LimaCitySetup
+[2024.01.19-15.27.06:586][726]LogWorld: UWorld::CleanupWorld for LimaCitySetup, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-15.27.06:586][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-15.27.06:592][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.19-15.27.06:594][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-15.27.06:596][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-15.27.06:596][726]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.19-15.27.06:599][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.19-15.27.06:601][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.19-15.27.06:622][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.19-15.27.06:680][727]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.01.19-15.28.27:292][676]Cmd: EDIT COPY
+[2024.01.19-15.28.51:683][ 36]Cmd: EDIT COPY
+[2024.01.19-15.28.55:229][402]Cmd: EDIT COPY
+[2024.01.19-15.28.56:518][530]Cmd: EDIT PASTE
+[2024.01.19-15.29.04:889][311]Cmd: TRANSACTION UNDO
+[2024.01.19-15.29.04:889][311]LogEditorTransaction: Undo Set Rotation
+[2024.01.19-15.29.57:137][519]Cmd: EDIT COPY
+[2024.01.19-15.29.57:972][607]Cmd: EDIT PASTE
+[2024.01.19-15.37.05:814][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.19-15.37.05:823][233]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto1
+[2024.01.19-15.37.05:824][233]LogSavePackage: Moving '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/LimaCitySetup_Auto1CB3E94F94445894A2DCAD0BB48E0196E.tmp' to '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto1.umap'
+[2024.01.19-15.37.05:824][233]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto1.umap is in the /Temp path, will not scan.
+[2024.01.19-15.37.05:824][233]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto1 is in the /Temp path, will not scan.
+[2024.01.19-15.37.05:824][233]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto1 is in the /Temp path, will not scan.
+[2024.01.19-15.37.05:825][233]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/LimaCitySetup' took 0.013
+[2024.01.19-15.37.05:825][233]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.013
+[2024.01.19-16.09.44:618][108]LogDerivedDataCache: C:/Users/monta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.081 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 639 files in 1083 folders with total size 30 MiB.
+[2024.01.19-16.18.14:630][551]LogSlate: Took 0.002413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.19-16.18.22:358][  0]LogEditorViewport: Clicking Background
+[2024.01.19-16.19.16:866][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.01.19-16.19.16:874][882]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto2
+[2024.01.19-16.19.16:874][882]LogSavePackage: Moving '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/LimaCitySetup_Auto298ECE65C4BB242FE2157D9915BCC3C0F.tmp' to '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto2.umap'
+[2024.01.19-16.19.16:876][882]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto2.umap is in the /Temp path, will not scan.
+[2024.01.19-16.19.16:876][882]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto2 is in the /Temp path, will not scan.
+[2024.01.19-16.19.16:876][882]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto2 is in the /Temp path, will not scan.
+[2024.01.19-16.19.16:876][882]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/LimaCitySetup' took 0.015
+[2024.01.19-16.19.16:876][882]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.015
+[2024.01.19-16.20.23:012][586]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.01.19-16.20.23:661][624]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.01.19-16.20.26:613][800]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.01.19-16.20.27:725][866]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.01.19-16.26.34:733][201]Cmd: EDIT COPY
+[2024.01.19-16.26.39:851][507]Cmd: EDIT COPY
+[2024.01.19-16.26.41:605][612]Cmd: EDIT PASTE
+[2024.01.19-16.27.07:820][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-16.27.07:911][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.01.19-16.27.07:918][132]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/LimaCitySetup
+[2024.01.19-16.27.07:919][132]LogSavePackage: Moving '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/LimaCitySetup80BC848440B28F8E0E7330B14D8AAC43.tmp' to '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Content/FirstPerson/Maps/LimaCitySetup.umap'
+[2024.01.19-16.27.07:923][132]LogFileHelpers: Saving map 'LimaCitySetup' took 0.029
+[2024.01.19-16.27.07:932][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 227 ms)
+[2024.01.19-16.27.07:934][132]AssetCheck: New page: Asset Save: LimaCitySetup
+[2024.01.19-16.27.07:934][132]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/LimaCitySetup.LimaCitySetup
+[2024.01.19-16.27.08:459][164]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.19-16.27.08:463][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.19-16.27.08:463][164]PIE: New page: PIE session: LimaCitySetup (19 ene. 2024 06:27:08)
+[2024.01.19-16.27.08:491][164]LogPlayLevel: Display: Creating online subsystem for client :Context_4
+[2024.01.19-16.27.08:493][164]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.01.19-16.27.08:509][165]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_LimaCitySetup
+[2024.01.19-16.27.08:513][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003632s)
+[2024.01.19-16.27.08:513][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/LimaCitySetup.LimaCitySetup to /Game/FirstPerson/Maps/UEDPIE_0_LimaCitySetup.LimaCitySetup (0.003691s)
+[2024.01.19-16.27.08:516][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.19-16.27.08:519][165]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-16.27.08:519][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-16.27.08:520][165]LogAIModule: Creating AISystem for world LimaCitySetup
+[2024.01.19-16.27.08:520][165]LogPlayLevel: PIE: World Init took: (0.002518s)
+[2024.01.19-16.27.08:520][165]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.01.19-16.27.08:520][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.19-16.27.08:520][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.19-16.27.08:520][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.19-16.27.08:520][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.19-16.27.08:520][165]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.19-16.27.08:520][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.19-16.27.08:520][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.19-16.27.08:520][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.19-16.27.08:521][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.19-16.27.08:521][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.19-16.27.08:521][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.19-16.27.08:522][165]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.19-16.27.08:612][165]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.19-16.27.08:615][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.19-16.27.08:615][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.19-16.27.08:615][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.19-16.27.08:617][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.01.19-16.27.08:617][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.01.19-16.27.08:618][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.01.19-16.27.08:618][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.01.19-16.27.08:618][165]LogInit: FAudioDevice initialized with ID 3.
+[2024.01.19-16.27.08:618][165]LogAudio: Display: Audio Device (ID: 3) registered with world 'LimaCitySetup'.
+[2024.01.19-16.27.08:618][165]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.01.19-16.27.08:622][165]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.19-16.27.08:623][165]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_LimaCitySetup.LimaCitySetup up for play (max tick rate 60) at 2024.01.19-11.27.08
+[2024.01.19-16.27.08:623][165]LogWorld: Bringing up level for play took: 0.000745
+[2024.01.19-16.27.08:626][165]LogTemp: Warning: BeginPlay
+[2024.01.19-16.27.08:626][165]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.01.19-16.27.08:626][165]PIE: Server logged in
+[2024.01.19-16.27.08:627][165]PIE: Play in editor total start time 0,164 seconds.
+[2024.01.19-16.27.16:292][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-16.27.16:292][619]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_LimaCitySetup
+[2024.01.19-16.27.16:292][619]LogWorld: UWorld::CleanupWorld for LimaCitySetup, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-16.27.16:292][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-16.27.16:296][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.19-16.27.16:297][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-16.27.16:300][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.19-16.27.16:300][619]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.01.19-16.27.16:300][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.01.19-16.27.16:301][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.01.19-16.27.16:321][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.01.19-16.27.16:376][620]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.01.19-16.27.32:695][318]Cmd: EDIT COPY
+[2024.01.19-16.27.33:895][390]Cmd: EDIT PASTE
+[2024.01.19-16.27.44:142][998]Cmd: TRANSACTION UNDO
+[2024.01.19-16.27.44:142][998]LogEditorTransaction: Undo Set Scale
+[2024.01.19-16.28.24:015][358]Cmd: EDIT COPY
+[2024.01.19-16.28.25:608][453]Cmd: EDIT PASTE
+[2024.01.19-16.36.32:222][654]Cmd: EDIT COPY
+[2024.01.19-16.36.33:121][708]Cmd: EDIT PASTE
+[2024.01.19-16.37.06:934][711]Cmd: EDIT COPY
+[2024.01.19-16.37.07:771][761]Cmd: EDIT PASTE
+[2024.01.19-16.37.35:884][426]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.19-16.38.46:698][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.01.19-16.38.46:707][326]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto3
+[2024.01.19-16.38.46:707][326]LogSavePackage: Moving '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/LimaCitySetup_Auto32693B6E641C31D14EAEA86B9B2EBE6D3.tmp' to '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto3.umap'
+[2024.01.19-16.38.46:708][326]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto3.umap is in the /Temp path, will not scan.
+[2024.01.19-16.38.46:708][326]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto3 is in the /Temp path, will not scan.
+[2024.01.19-16.38.46:708][326]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto3 is in the /Temp path, will not scan.
+[2024.01.19-16.38.46:709][326]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/LimaCitySetup' took 0.016
+[2024.01.19-16.38.46:709][326]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.016
+[2024.01.19-16.41.48:261][ 15]Cmd: EDIT COPY
+[2024.01.19-16.41.49:149][ 68]Cmd: EDIT PASTE
+[2024.01.19-16.43.43:599][325]Cmd: EDIT COPY
+[2024.01.19-16.43.46:671][509]Cmd: EDIT PASTE
+[2024.01.19-16.43.47:962][584]Cmd: TRANSACTION UNDO
+[2024.01.19-16.43.47:962][584]LogEditorTransaction: Undo Paste
+[2024.01.19-16.43.51:391][769]Cmd: DELETE
+[2024.01.19-16.43.51:391][769]Cmd: ACTOR DELETE
+[2024.01.19-16.43.51:404][769]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.19-16.43.51:408][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.01.19-16.43.51:410][769]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2024.01.19-16.44.27:786][916]Cmd: TRANSACTION UNDO
+[2024.01.19-16.44.27:786][916]LogEditorTransaction: Undo Set Location
+[2024.01.19-16.47.49:662][503]Cmd: EDIT COPY
+[2024.01.19-16.48.00:912][163]Cmd: EDIT COPY
+[2024.01.19-16.48.03:428][313]Cmd: EDIT COPY
+[2024.01.19-16.48.03:918][342]Cmd: EDIT PASTE
+[2024.01.19-16.48.22:447][438]Cmd: TRANSACTION UNDO
+[2024.01.19-16.48.22:448][438]LogEditorTransaction: Undo Set Scale
+[2024.01.19-16.49.22:393][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.01.19-16.49.22:402][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto4
+[2024.01.19-16.49.22:402][504]LogSavePackage: Moving '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/LimaCitySetup_Auto4B39DC5004C35ADD57DDDBA86E15ACCDD.tmp' to '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto4.umap'
+[2024.01.19-16.49.22:403][504]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto4.umap is in the /Temp path, will not scan.
+[2024.01.19-16.49.22:403][504]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto4 is in the /Temp path, will not scan.
+[2024.01.19-16.49.22:403][504]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto4 is in the /Temp path, will not scan.
+[2024.01.19-16.49.22:404][504]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/LimaCitySetup' took 0.016
+[2024.01.19-16.49.22:404][504]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.016
+[2024.01.19-16.50.04:961][993]Cmd: EDIT COPY
+[2024.01.19-16.50.05:777][ 42]Cmd: EDIT PASTE
+[2024.01.19-16.59.23:126][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.01.19-16.59.23:135][501]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto5
+[2024.01.19-16.59.23:136][501]LogSavePackage: Moving '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/LimaCitySetup_Auto5231301D1486E22F2BD7B2CB1E6DF3223.tmp' to '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto5.umap'
+[2024.01.19-16.59.23:137][501]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto5.umap is in the /Temp path, will not scan.
+[2024.01.19-16.59.23:137][501]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto5 is in the /Temp path, will not scan.
+[2024.01.19-16.59.23:137][501]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto5 is in the /Temp path, will not scan.
+[2024.01.19-16.59.23:137][501]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/LimaCitySetup' took 0.015
+[2024.01.19-16.59.23:137][501]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.015
+[2024.01.19-17.00.55:197][ 45]Cmd: EDIT COPY
+[2024.01.19-17.00.55:920][ 88]Cmd: EDIT PASTE
+[2024.01.19-17.00.55:920][ 88]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2024.01.19-17.01.01:603][421]Cmd: DELETE
+[2024.01.19-17.01.01:603][421]Cmd: ACTOR DELETE
+[2024.01.19-17.01.01:604][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.19-17.01.01:608][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.01.19-17.01.01:609][421]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2024.01.19-17.09.23:585][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.19-17.09.23:593][722]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto6
+[2024.01.19-17.09.23:593][722]LogSavePackage: Moving '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/LimaCitySetup_Auto682F21FAA4C208F615B8F6D89E13C90F7.tmp' to '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto6.umap'
+[2024.01.19-17.09.23:595][722]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto6.umap is in the /Temp path, will not scan.
+[2024.01.19-17.09.23:595][722]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto6 is in the /Temp path, will not scan.
+[2024.01.19-17.09.23:595][722]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto6 is in the /Temp path, will not scan.
+[2024.01.19-17.09.23:595][722]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/LimaCitySetup' took 0.016
+[2024.01.19-17.09.23:595][722]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.016
+[2024.01.19-17.09.44:632][786]LogDerivedDataCache: C:/Users/monta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.094 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 639 files in 1083 folders with total size 30 MiB.
+[2024.01.19-18.09.45:564][584]LogDerivedDataCache: C:/Users/monta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.025 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 639 files in 1083 folders with total size 30 MiB.
+[2024.01.19-18.15.29:340][609]LogViewport: Scene viewport resized to 1523x905, mode Windowed.
+[2024.01.19-18.15.31:424][612]LogViewport: Scene viewport resized to 1523x845, mode Windowed.
+[2024.01.19-19.09.44:673][348]LogDerivedDataCache: C:/Users/monta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.133 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 639 files in 1083 folders with total size 30 MiB.
+[2024.01.19-19.47.32:992][ 18]Cmd: EDIT COPY
+[2024.01.19-19.47.33:475][ 47]Cmd: EDIT PASTE
+[2024.01.19-19.47.41:965][549]Cmd: TRANSACTION UNDO
+[2024.01.19-19.47.41:965][549]LogEditorTransaction: Undo Set Rotation
+[2024.01.19-19.48.20:827][851]Cmd: TRANSACTION UNDO
+[2024.01.19-19.48.20:827][851]LogEditorTransaction: Undo Set Location
+[2024.01.19-19.48.24:156][ 36]Cmd: TRANSACTION UNDO
+[2024.01.19-19.48.24:156][ 36]LogEditorTransaction: Undo Set Location
+[2024.01.19-19.51.01:021][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-19.51.01:136][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.01.19-19.51.01:147][402]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/LimaCitySetup
+[2024.01.19-19.51.01:148][402]LogSavePackage: Moving '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/LimaCitySetupC9B8C844463239FFA6530AB710046B36.tmp' to '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Content/FirstPerson/Maps/LimaCitySetup.umap'
+[2024.01.19-19.51.01:152][402]LogFileHelpers: Saving map 'LimaCitySetup' took 0.049
+[2024.01.19-19.51.01:162][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 368 ms)
+[2024.01.19-19.51.01:165][402]AssetCheck: New page: Asset Save: LimaCitySetup
+[2024.01.19-19.51.01:165][402]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/LimaCitySetup.LimaCitySetup
+[2024.01.19-19.52.39:695][742]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: ================================================
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Total job queries 8, among them cache hits 0 (0.00%)
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: RAM used: 37,12 KiB of 819,20 MiB budget. Usage: 0.00%
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Jobs assigned 8, completed 2 (25.00%)
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.07 s
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Job execution time: average 0.97 s, max 0.97 s
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Job life time (pending + execution): average 1.02 s, max 1.03
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Shader code size: average 30,975 KiB, min 29,613 KiB, max 32,336 KiB
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.03 s
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Average processing rate: 1.94 jobs/sec
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Total thread time: 0,432 s
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Total thread preprocess time: 0,279 s
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Percentage time preprocessing: 64.70%
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Effective parallelization: 0.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    2 times, average 0.22 sec, max 0.22 sec, min 0.22 sec)
+[2024.01.19-19.52.40:850][804]LogShaderCompilers: Display: ================================================
+[2024.01.19-19.52.45:105][ 34]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.01.19-19.52.47:326][156]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.01.19-19.52.47:334][156]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.01.19-19.52.47:348][157]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.01.19-19.52.50:089][322]LogContentBrowser: Attempting asset rename: NewMaterial -> Walls
+[2024.01.19-19.52.50:204][322]LogContentBrowser: End creating deferred item NewMaterial
+[2024.01.19-19.52.51:721][410]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FPWeapon/Materials/Walls.Walls
+[2024.01.19-19.52.51:769][410]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.19-19.52.51:770][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.19-19.52.51:893][410]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.01.19-19.52.52:225][410]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.19-19.52.52:225][410]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.19-19.52.52:225][410]MaterialEditorStats: Shader Count: 0
+[2024.01.19-19.52.52:313][410]LogSlate: Took 0.002453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.01.19-19.52.52:320][410]LogViewport: Scene viewport resized to 192x194, mode Windowed.
+[2024.01.19-19.52.52:671][423]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.01.19-19.52.52:671][423]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.19-19.52.52:671][423]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.19-19.52.52:671][423]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.19-19.52.52:671][423]MaterialEditorStats: Shader Count: 4
+[2024.01.19-19.52.57:589][621]LogSlate: Window 'Walls' being destroyed
+[2024.01.19-19.52.57:596][621]LogSlate: Window 'Walls' being destroyed
+[2024.01.19-19.52.57:608][621]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.01.19-19.52.57:608][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.19-20.01.01:052][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.19-20.01.01:061][138]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto7
+[2024.01.19-20.01.01:061][138]LogSavePackage: Moving '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/LimaCitySetup_Auto710FA627A4258F85D387045AC956FB22F.tmp' to '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto7.umap'
+[2024.01.19-20.01.01:063][138]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto7.umap is in the /Temp path, will not scan.
+[2024.01.19-20.01.01:063][138]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto7 is in the /Temp path, will not scan.
+[2024.01.19-20.01.01:063][138]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/FirstPerson/Maps/LimaCitySetup_Auto7 is in the /Temp path, will not scan.
+[2024.01.19-20.01.01:063][138]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/LimaCitySetup' took 0.021
+[2024.01.19-20.01.01:063][138]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2024.01.19-20.01.01:064][138]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPWeapon/Materials/Walls] ([1] browsable assets)...
+[2024.01.19-20.01.01:186][138]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FPWeapon/Materials/Walls.Walls]
+[2024.01.19-20.01.01:186][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPWeapon/Materials/Walls]
+[2024.01.19-20.01.01:192][138]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPWeapon/Materials/Walls_Auto7
+[2024.01.19-20.01.01:192][138]LogSavePackage: Moving '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Walls_Auto7C82E709F4526ACC81449C9ADBC415D0F.tmp' to '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/Autosaves/Game/FPWeapon/Materials/Walls_Auto7.uasset'
+[2024.01.19-20.01.01:192][138]LogFileHelpers: Auto-saving content packages took 0.129
+[2024.01.19-20.03.10:807][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.19-20.03.10:904][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.01.19-20.03.10:913][534]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/LimaCitySetup
+[2024.01.19-20.03.10:914][534]LogSavePackage: Moving '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Saved/LimaCitySetupFC3AB2CB4FB0BE521F237CB7EBC7FD50.tmp' to '../../../../../../Users/monta/OneDrive/Documents/GitHub/CitySimulation/CitySimulation/Content/FirstPerson/Maps/LimaCitySetup.umap'
+[2024.01.19-20.03.10:917][534]LogFileHelpers: Saving map 'LimaCitySetup' took 0.027
+[2024.01.19-20.03.10:926][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 487 ms)
+[2024.01.19-20.03.10:928][534]AssetCheck: New page: Asset Save: LimaCitySetup
+[2024.01.19-20.03.10:928][534]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/LimaCitySetup.LimaCitySetup
